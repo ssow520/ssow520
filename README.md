@@ -4,7 +4,7 @@
 ### Développeur Full Stack Junior · Montréal, QC
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ssow520.github.io-1A1A2E?style=for-the-badge&logo=github&logoColor=E8C547)](https://ssow520.github.io/Portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/souleymane-sow)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ssow520)
 
 *Étudiant en Techniques de l'informatique au Collège LaSalle — spécialisation programmeur-analyste*
 
